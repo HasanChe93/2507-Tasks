@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+    
+}
+.conT
+{ border: 10px chocolate solid;
+    
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    width: 80%;
+    height: 300px;
+    ;
+    
+}
+.c-1,.c-2,.c-3,.c-4,.c-5,.c-6,.c-7,.c-8,.c-9,.c-10{
+    
+    color: white;
+    font-size: 60px;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    
+}
+.c-1{
+    background-color: darkgreen;
+}
+.c-2{
+    background-color: yellow;
+}
+.c-3{
+    background-color: purple;
+}
+.c-4{
+    background-color: gray;
+}
+.c-5{
+    background-color:blue ;
+}
+.c-6{
+    background-color: orange;
+}
+.c-7{
+    background-color: pink;
+}
+.c-8{
+    background-color: red;
+}
+.c-9{
+    background-color: darkred;
+}
+.c-10{
+    background-color:darkcyan
+}
